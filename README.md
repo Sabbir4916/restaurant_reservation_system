@@ -1,4 +1,4 @@
-# 🍽️ Online Restaurant Reservation System
+# 🍽️ Restaurant Reservation System
 
 ## 📖 Description
 A mobile application built with Flutter that allows users to search for restaurants and make reservations online. It enhances convenience for users and optimizes management for restaurants.
