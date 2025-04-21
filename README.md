@@ -25,5 +25,5 @@ A mobile application built with Flutter that allows users to search for restaura
 
 ## 📦 Release APK
 
-📲 [Download APK]([https://your-apk-link.com](https://drive.google.com/file/d/1fiyyUBZrPJIMsQsyDacuoOqQwVJmAOhu/view?usp=sharing))
+📲 [Download APK]([https://your-apk-link.com](https://drive.google.com/file/d/1fiyyUBZrPJIMsQsyDacuoOqQwVJmAOhu/view?usp=sharing)
 
