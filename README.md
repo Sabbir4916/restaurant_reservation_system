@@ -1,16 +1,35 @@
-# restaurant_reservation_system
+# 🍽️ Online Restaurant Reservation System
 
-A new Flutter project.
+## 📖 Description
+A mobile application built with Flutter that allows users to search for restaurants and make reservations online. It enhances convenience for users and optimizes management for restaurants.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![Welcome Page](screenshot/welcome_screen.png)
+![Register Page](screenshot/register_screen.png)
+![Log In Page](screenshot/login_screen.png)
+![Home Screen](screenshot/home_screen.png)
+![Details Page](screenshot/details_screen.png)
+![Booking Page](screenshot/booking_screen.png)
+![Profile Page](screenshot/profile_screen.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎥 Demo Video
+
+[📺 Watch Demo](https://drive.google.com/file/d/1ZhrhA_gJyDqHYfofkk0JOPQ9ElkwFe6j/view?usp=sharing)
+
+---
+
+
+---
+
+## 📄 Project Report
+
+[📘 View Report](https://drive.google.com/file/d/1UsHhMG0mVIj6WgI2bFC_Y1CijWnVB6y4/view?usp=sharing)
+
+---
+
